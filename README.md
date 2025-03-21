@@ -5,6 +5,9 @@ Track Atlanta Metro area pollen count daily over time
 -  Symptoms: Mock symptoms of individuals with seasonal allergy
 <br/>
 
-## Here's an up-to-date static tracking plot, interactive plot forthcoming! Happy Spring :green_heart:
+## Here's a summary plot! Happy Spring :green_heart:
 
 ![](https://github.com/siranhe/atl.pollen/blob/main/output/static_tracking_plot.png)
+
+
+## For a more interactive plot, because static plot does not satisfy your curiousity (I get it), click to view this [HTML file](https://raw.githack.com/siranhe/atl.pollen/refs/heads/main/output/dynamic_tracking_plot.html)
