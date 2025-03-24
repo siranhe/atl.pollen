@@ -9,8 +9,5 @@ Track Atlanta Metro area pollen count daily over time
 ![](https://github.com/siranhe/atl.pollen/blob/main/output/static_tracking_plot.png)
 
 ## 2. For an interactive plot, because static plots do not satisfy your curiousity (I get it), click to view this [HTML file](https://raw.githack.com/siranhe/atl.pollen/refs/heads/main/output/dynamic_tracking_plot.html) instead. 
-<<<<<<< HEAD
+
 ### *Happy Spring!* :green_heart:
-=======
-### *Happy Spring!* :green_heart:
->>>>>>> def0e42 (added new data points)
