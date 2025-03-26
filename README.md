@@ -7,7 +7,7 @@ Take care out there!
 
 ![](https://github.com/siranhe/atl.pollen/blob/main/output/static_tracking_plot.png)
 
-## 2. For an interactive plot, because static plots do not satisfy your curiousity (I get it), click to view this [HTML file](https://raw.githack.com/siranhe/atl.pollen/refs/heads/main/output/dynamic_tracking_plot.html) instead. 
+## 2. If you prefer an interactive plot instead, click this [HTML file](https://raw.githack.com/siranhe/atl.pollen/refs/heads/main/output/dynamic_tracking_plot.html). 
 
 ### *Happy Spring!* :green_heart:
 
