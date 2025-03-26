@@ -1,8 +1,7 @@
 # Atlanta Tree Pollen Tracker :monocle_face::cherry_blossom::mask: 
-Track Atlanta Metro area pollen count daily over time
--  Data collection by Siran He (siranhe@gmail.com)
--  Source: Atlanta Allergy and Asthma (https://www.atlantaallergy.com/)
--  Symptoms: Mock symptoms of individuals with seasonal allergy
+Track Atlanta Metro area pollen count daily, overlaying year-to-year data.
+Take care out there!
+
 
 ## 1. Here's a summary plot:
 
@@ -11,3 +10,8 @@ Track Atlanta Metro area pollen count daily over time
 ## 2. For an interactive plot, because static plots do not satisfy your curiousity (I get it), click to view this [HTML file](https://raw.githack.com/siranhe/atl.pollen/refs/heads/main/output/dynamic_tracking_plot.html) instead. 
 
 ### *Happy Spring!* :green_heart:
+
+Notes:
+-  Data collection by Siran He (siranhe@gmail.com)
+-  Source: Atlanta Allergy and Asthma (https://www.atlantaallergy.com/)
+-  Symptoms: Mock symptoms of individuals with seasonal allergy
