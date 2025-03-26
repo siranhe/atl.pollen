@@ -1,5 +1,5 @@
 # Atlanta Tree Pollen Tracker :monocle_face::cherry_blossom::mask: 
-Track Atlanta Metro area pollen count daily, overlaying year-to-year data. \n
+Track Atlanta Metro area pollen count daily, overlaying year-to-year data. /n
 Take care out there, y'all!
 
 
