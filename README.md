@@ -1,5 +1,6 @@
 # Atlanta Tree Pollen Tracker :monocle_face::cherry_blossom::mask: 
-Purpose: Tracking daily Atlanta tree pollen counts, overlaying year-to-year data.\ 
+Purpose: Tracking daily Atlanta tree pollen counts, overlaying year-to-year data.  
+<br /> 
 Take care out there, y'all!
 
 
