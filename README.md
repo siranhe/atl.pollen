@@ -1,6 +1,7 @@
 # Atlanta Tree Pollen Tracker :monocle_face::cherry_blossom::mask: 
-Track Atlanta Metro area pollen count daily, overlaying year-to-year data.
-Take care out there!
+Purpose: Tracking daily Atlanta tree pollen counts, overlaying year-to-year data.  
+<br /> 
+Take care out there, y'all!
 
 
 ## 1. Here's a summary plot:
