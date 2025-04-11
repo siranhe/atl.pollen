@@ -8,11 +8,10 @@ Take care out there, y'all!
 
 ![](https://github.com/siranhe/atl.pollen/blob/main/output/static_tracking_plot.png)
 
-## 2. If you prefer an interactive plot instead, click this [HTML file](https://raw.githack.com/siranhe/atl.pollen/refs/heads/main/output/dynamic_tracking_plot.html). 
+## 2. For an interactive plot, please visit: [HTML file](https://raw.githack.com/siranhe/atl.pollen/refs/heads/main/output/dynamic_tracking_plot.html). 
 
 ### *Happy Spring!* :green_heart:
 
 Notes:
 -  Data collection by Siran He (siranhe@gmail.com)
 -  Source: Atlanta Allergy and Asthma (https://www.atlantaallergy.com/)
--  Symptoms: Mock symptoms of individuals with seasonal allergy
